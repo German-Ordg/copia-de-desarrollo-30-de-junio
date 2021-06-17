@@ -46,12 +46,6 @@ namespace Pantallas_proyecto
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.Código_Factura = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Descripcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Categoría = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Precio_Compra = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Precio_Venta = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Cantidad = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -95,13 +89,6 @@ namespace Pantallas_proyecto
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.Código_Factura,
-            this.Descripcion,
-            this.Categoría,
-            this.Precio_Compra,
-            this.Precio_Venta,
-            this.Cantidad});
             this.dataGridView1.Location = new System.Drawing.Point(11, 305);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(646, 133);
@@ -136,7 +123,7 @@ namespace Pantallas_proyecto
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(489, 255);
+            this.textBox5.Location = new System.Drawing.Point(489, 242);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(159, 20);
             this.textBox5.TabIndex = 67;
@@ -146,7 +133,7 @@ namespace Pantallas_proyecto
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(324, 257);
+            this.label6.Location = new System.Drawing.Point(324, 241);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(66, 18);
             this.label6.TabIndex = 66;
@@ -230,40 +217,9 @@ namespace Pantallas_proyecto
             this.groupBox1.Controls.Add(this.button1);
             this.groupBox1.Location = new System.Drawing.Point(370, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(269, 91);
+            this.groupBox1.Size = new System.Drawing.Size(269, 101);
             this.groupBox1.TabIndex = 77;
             this.groupBox1.TabStop = false;
-            // 
-            // Código_Factura
-            // 
-            this.Código_Factura.HeaderText = "Código Factura ";
-            this.Código_Factura.Name = "Código_Factura";
-            // 
-            // Descripcion
-            // 
-            this.Descripcion.HeaderText = "Descripción";
-            this.Descripcion.Name = "Descripcion";
-            // 
-            // Categoría
-            // 
-            this.Categoría.HeaderText = "Categoría";
-            this.Categoría.Name = "Categoría";
-            // 
-            // Precio_Compra
-            // 
-            this.Precio_Compra.HeaderText = "Precio Compra(unid)";
-            this.Precio_Compra.Name = "Precio_Compra";
-            // 
-            // Precio_Venta
-            // 
-            this.Precio_Venta.HeaderText = "Precio Venta(unid)";
-            this.Precio_Venta.Name = "Precio_Venta";
-            // 
-            // Cantidad
-            // 
-            this.Cantidad.HeaderText = "Cantidad";
-            this.Cantidad.Name = "Cantidad";
-            this.Cantidad.Width = 102;
             // 
             // FrmCompras
             // 
@@ -315,11 +271,5 @@ namespace Pantallas_proyecto
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Código_Factura;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Descripcion;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Categoría;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Precio_Compra;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Precio_Venta;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Cantidad;
     }
 }

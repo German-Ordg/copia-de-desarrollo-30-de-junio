@@ -74,3 +74,30 @@ C:\Users\Administrador\Desktop\Repositorio Git Hub Proyecto\DESARROLLO_DE_SOFTWA
 C:\Users\Administrador\Desktop\Repositorio Git Hub Proyecto\DESARROLLO_DE_SOFTWARE_GRUPO_5\obj\Debug\Pantallas_proyecto.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Desktop\Repositorio Git Hub Proyecto\DESARROLLO_DE_SOFTWARE_GRUPO_5\obj\Debug\Pantallas_proyecto.exe
 C:\Users\Administrador\Desktop\Repositorio Git Hub Proyecto\DESARROLLO_DE_SOFTWARE_GRUPO_5\obj\Debug\Pantallas_proyecto.pdb
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\bin\Debug\Pantallas_proyecto.exe.config
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\bin\Debug\Pantallas_proyecto.exe
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\bin\Debug\Pantallas_proyecto.pdb
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.csproj.AssemblyReference.cache
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.FrmAcceso.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.FrmClientes.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.FrmCompras.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.FrmEmpleados.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.FrmImpresionFactura.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.FrmInventario.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.frmInventarioParaEmpleado.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.FrmInventario_Gerente.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.FrmMenuCRUD.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.FrmMenuPrincipal.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.FrmMenuPrincipalGerente.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.FrmMetodosdePago.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.frmPantallaFacturacion.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.frmPuestosTrabajo.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.FrmRecuperaContra.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.frmReportes.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.frmUsuarios.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.Properties.Resources.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.frmProveedores.resources
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.csproj.GenerateResource.cache
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.csproj.CoreCompileInputs.cache
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.exe
+C:\Users\dell_\Desktop\Desarrollo Grupo 5\obj\Debug\Pantallas_proyecto.pdb
